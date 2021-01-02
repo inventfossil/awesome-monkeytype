@@ -2,7 +2,7 @@
 
 List of awesome community created themes for monkeytype.com
 
-### Pre requisites
+## Pre requisites
 
 - **[Stylus](https://add0n.com/stylus.html)** extension
   
@@ -13,13 +13,13 @@ List of awesome community created themes for monkeytype.com
   | [chrome beta](https://chrome.google.com/webstore/detail/stylus-beta/apmmpaebfobifelkijhaljbmpcgbjbdo) |     | (see [wiki](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus) for more <br/>recent version of opera extension) |
   
 
-### Theme installation
+## Theme installation
 
 check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
 
-### Gallery
+## Gallery
 
-### FAQ
+## FAQ
 
 1. **_How do I submit my theme?_**
   
