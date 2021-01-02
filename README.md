@@ -6,7 +6,7 @@
 -  [Pre requisites](#pre-requisites)
 -  [Theme installation](#theme-installation)
 -  [Gallery](#gallery)
--  [FAQ](#faq)
+-  [FAQ - _How to submit my theme?_](#faq)
 
 ## Pre requisites
 
@@ -36,7 +36,10 @@
   <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/thatSil3nt.png" alt="thatSil3nt" width="100%" height="auto"> 
 </p>  
 
-
+### [abstract wilderness](https://github.com/subhajit-halder/awesome-monkeytype/blob/main/theme/Minimal%20Abstract%20Wilderness%20Theme.css)
+<p align="center" > 
+  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/minimal%20abstract%20wilderness.png" alt="minimal wilderness" width="100%" height="auto"> 
+</p> 
 
 ## FAQ
 
