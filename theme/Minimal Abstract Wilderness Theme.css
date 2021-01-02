@@ -1,0 +1,72 @@
+/*font*/
+    @font-face {
+        font-family: 'Roboto Mono';
+        font-style: oblique;
+        font-weight: 200;
+        src: url(https://fonts.gstatic.com/s/robotomono/v12/L0x5DF4xlVMF-BfR8bXMIjhLq38.woff2) format('woff2');
+    }
+    * {
+        font-family: 'Roboto Mono';
+        font-weight: 200;
+    }
+    
+    /*uncomment this to add background*/
+    body {
+        background-image: url("https://wallpapercave.com/wp/wp4469580.jpg");
+        background-size: cover;
+    }
+    
+    /*add some padding to both sides of the text*/
+    #middle {
+        background-color: rgba(0,0,0,0.4);
+        border-radius: 20px;
+        width: auto;
+        padding: 15px;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #timerwrapper {
+        position: absolute;
+        top: -20px;
+    }
+    
+    /*hides all top bar items and re-centers test*/
+    #centerContent {
+        /*position: absolute;
+        top: -150px;*/
+        grid-template-rows: none;
+    }
+    #top {
+        display: none;
+    }
+    
+    /*hide the indicators for layout, language, and other stuff*/
+    #testModesNotice {
+        display: none !important;
+    }
+    
+    /*hide restart button (tab+enter still works) and fix test alignment*/
+    .fas.fa-fw.fa-redo-alt {
+    display: none;
+    }
+    #restartTestButton {
+    padding: 0;
+    margin-top: 0;
+    }
+    
+    /*hide bottom bar items*/
+    #bottom {
+        display: none;
+    }
+
+    letter {
+        text-shadow: 0px 0px 3px rgba(255, 255, 255, 0);   
+    }
+    
+    /*hide scrollbar*/
+    ::-webkit-scrollbar {
+        width: 0px;
+        background: transparent;
+    }
