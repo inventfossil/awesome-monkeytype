@@ -2,6 +2,11 @@
 
 ##### List of awesome community created themes for [monkeytype.com](https://monkeytype.com/)
 
+## Table of content
+-  [Pre requisites](#pre-requisites)
+-  [Theme installation](#theme-installation)
+-  [Gallery](#gallery)
+-  [FAQ](#faq)
 
 ## Pre requisites
 
