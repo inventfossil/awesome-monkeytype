@@ -23,16 +23,16 @@ check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
 
 1. **_How do I submit my theme?_**
   
-  - create an issue with title `theme`
+   - create an issue with title `theme`
     
-  - attach your .css/.txt theme file
+   - attach your .css/.txt theme file
     
-  - attach a screenshot of monkeytype homepage with your theme installed
+   - attach a screenshot of monkeytype homepage with your theme installed
     
-  - mention your discord name or else your github profile will be credited below
+   - mention your discord name or else your github profile will be credited below
     
 2. **_Someone else has taken credit for my theme_**
   
-  - create an issue with title `credit`
+   - create an issue with title `credit`
     
-  - explain with proof so I can verify and credit the original author
+   - explain with proof so I can verify and credit the original author
