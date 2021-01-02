@@ -1,8 +1,7 @@
 # Awesome Monkeytype
 
-<p>
-<h5>List of awesome community created themes for monkeytype.com
-</p>
+##### List of awesome community created themes for [monkeytype.com](https://monkeytype.com/)
+
 
 ## Pre requisites
 
@@ -20,6 +19,19 @@
    check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
 
 ## Gallery
+
+### [73i](https://github.com/subhajit-halder/awesome-monkeytype/blob/main/theme/73i.css)
+<p align="center" > 
+  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/73i1.png" alt="73i" width="100%" height="auto"> 
+  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/73i2.png" alt="73i" width="100%" height="auto">
+</p>
+
+### [thatSil3nt](https://github.com/subhajit-halder/awesome-monkeytype/blob/main/theme/thatSil3nt.css)
+<p align="center" > 
+  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/thatSil3nt.png" alt="thatSil3nt" width="100%" height="auto"> 
+</p>  
+
+
 
 ## FAQ
 
