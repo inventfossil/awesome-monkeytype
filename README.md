@@ -1,6 +1,8 @@
 # Awesome Monkeytype
 
-List of awesome community created themes for monkeytype.com
+<p>
+<h5>List of awesome community created themes for monkeytype.com
+</p>
 
 ## Pre requisites
 
@@ -15,7 +17,7 @@ List of awesome community created themes for monkeytype.com
 
 ## Theme installation
 
-check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
+   check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
 
 ## Gallery
 
