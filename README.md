@@ -16,7 +16,7 @@
 
 ## Theme installation
 
-   check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
+   - check out [stylus wiki](https://github.com/openstyles/stylus/wiki#stylus)
 
 ## Gallery
 
