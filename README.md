@@ -27,8 +27,7 @@
 
 ### [73i](https://github.com/subhajit-halder/awesome-monkeytype/blob/main/theme/73i.css)
 <p align="center" > 
-  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/73i1.png" alt="73i" width="100%" height="auto"> 
-  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/73i2.png" alt="73i" width="100%" height="auto">
+  <img src="https://github.com/subhajit-halder/awesome-monkeytype/blob/main/screenshot/73inew.png" alt="73i" width="100%" height="auto"> 
 </p>
 
 ### [thatSil3nt](https://github.com/subhajit-halder/awesome-monkeytype/blob/main/theme/thatSil3nt.css)
