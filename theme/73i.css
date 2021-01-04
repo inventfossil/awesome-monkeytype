@@ -4,23 +4,16 @@
 }
 * {
   font-family: font;
-  color: var(--text-color);
+  color: var(--text-color)
 }
-/*This adds the backgrounds image from a URL*/
 body {
     background-image: url(https://media.tenor.com/images/22124b8e179f5857a61a3f8e08dcfdce/tenor.gif);
     background-attachment: fixed;
     background-size: cover;
 }
-/*Centers the menu at the top*/
-#top {
-    grid-template-columns: 1fr auto 1fr;
-}
-/*Hides the logo when typing*/
 #top.focus .logo { 
-    opacity: 0;
+    opacity: 1;
 }
-/*Allows custom logo text*/
 #top .logo .top {
   visibility: hidden;
 }
@@ -35,18 +28,16 @@ body {
     visibility: hidden;
 }
 #top .logo .bottom:after {
-  content: '73i | Typing test';
+  content: 'reject humanity return to monke' ;
   font-size: 40px;
     visibility: visible; 
     display: block; 
     position: relative; 
     margin-top: -32px; 
 }
-/* UNCOMMENT AND CHANGE COLOR TO ADD TEXT BORDERS 
-letter {
-    text-shadow: 0px 0px 3px #FFFFFF;   
-} */
-/*Hides the elements at the bottom (The Patreon links etc.)*/
+letter {  
+    text-shadow: 0px 0px 3px black`
+} 
 #bottom {
     visibility: hidden;
 }
@@ -77,4 +68,53 @@ letter {
     transition: .25s;
     z-index: 999;
     pointer-events: none
+}
+#top .config {
+    margin-top: -50% !important;
+    grid-area: config;
+    justify-self: right;
+    display: grid;
+    grid-auto-flow: row;
+    grid-gap: .2rem;
+    transition: .25s;
+    justify-items: self-end
+}
+#top {
+    grid-template-areas: unset;
+    line-height: 2.3rem;
+    font-size: 2.3rem;
+    transition: .25s;
+    padding: 0 5px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: auto 1fr auto;
+    z-index: 2;
+    align-items: center;
+    gap: .5rem
+}
+#commandLineWrapper {
+    backdrop-filter: blur(5px);
+}
+#commandLineWrapper #commandLine {
+    width: 700px;
+    background:transparent;
+    border-radius: var(--roundness)
+}
+
+#commandLineWrapper #commandLine input {
+    background: transparent;
+    padding: 1rem;
+    color: var(--main-color);
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    font-family: var(--font);
+    width: 100%;
+    border-radius: var(--roundness)
+}
+.pageSettings .tip {
+  display: none;
+}
+::-webkit-scrollbar {
+    display: none;
 }
